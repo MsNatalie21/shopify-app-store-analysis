@@ -41,3 +41,8 @@ Monitor seasonal review spikes and align marketing or support initiatives with p
 Investigate low‑rating categories to identify systemic issues and provide targeted guidance to developers.
 
 These actions will help Shopify enhance the overall marketplace experience, drive higher merchant satisfaction, and support continued growth across the App Store ecosystem.
+
+## Repository Structure
+/data – contains all CSV files  
+/screenshots – contains all Power BI screenshots
+
